@@ -1,0 +1,10 @@
+Exercise 6 Questions
+Question 6.1
+If we’re interested in generating a report for just critical vulnerabilities. How can this be done? 
+ - By selecting to filter for only critical vulnerabilities. After filtering for critical vulnerabilities, you 
+would generate the report using the report option, ensuring it includes only the filtered findings. 
+
+Question 6.2
+Who all might be interested in receiving a vulnerability report from Nessus? (HINT: Think individual groups, stakeholders
+or other personnel within an organization.) 
+ - The IT/Cyber teams, CISO's, and  team leads that are looking to fix vulnerabilities. 
