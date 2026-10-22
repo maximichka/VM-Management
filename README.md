@@ -61,3 +61,13 @@ API authentication, and successfully retrieved existing vulnerability scans.
 This project was completed as part of the [ShellSharks Vulnerability Management Bootcamp](https://shellsharks.com/vm-bootcamp).
 
 All scanning and testing were performed in a controlled lab environment using an intentionally vulnerable virtual machine.
+
+## Exercise Navigation
+
+[Exercise 1](Exercise-1/)
+[Exercise 2](Exercise-2/)
+[Exercise 3](Exercise-3/)
+[Exercise 4](Exercise-4/)
+[Exercise 5](Exercise-5/)
+[Exercise 6](Exercise-6/)
+[Exercise 7](Exercise-7/)
